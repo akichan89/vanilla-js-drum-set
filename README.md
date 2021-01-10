@@ -1,1 +1,1 @@
-# vanilla-js-drum-set
+# drum-set-js
